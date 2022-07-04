@@ -3,4 +3,12 @@ This repo contains my notes of LeetCode problems. This ReadMe file will provide 
 
 # LeetCode Problems Overview
 ### ☑ Arrays
- + 
+ + ☑ Two-Pointers
+### Binary Tree
++ Traversals (Recursive & Iterative)
+    + ☑ Preorder
+    + Inorder
+    + Postorder
++ BFS
+
+ 
