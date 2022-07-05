@@ -5,10 +5,14 @@ This repo contains my notes of LeetCode problems. This ReadMe file will provide 
 ### ☑ Arrays
  + ☑ Two-Pointers
 ### Binary Tree
-+ Traversals (Recursive & Iterative)
++ DFS Traversals (Recursive, Iterative, Morris)
     + ☑ Preorder
-    + Inorder
+    + ☑ Inorder
     + Postorder
-+ BFS
++ BFS /Level-Order Traversal
+
+ ## Helpful Study Links
+ + [List of LeetCode question to cover all the concepts and type of questions *by 
+jadia*](https://leetcode.com/discuss/general-discussion/419062/list-of-leetcode-question-to-cover-all-the-concepts-and-type-of-questions)
 
  
